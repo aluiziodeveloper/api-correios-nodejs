@@ -11,10 +11,6 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 
 Neste post vamos aprender a utilizar a API dos correios para consulta de CEP, cálculo de frete e prazo, a partir de uma biblioteca gratuita implementada com o Node.js e disponível no Github.
 
-[Github API Consulta CEP dos Correios](https://github.com/vitorleal/node-correios)
-
-[PDF - Manual Técnico de Integração com a API dos Correios](http://www.correios.com.br/enviar-e-receber/ferramentas/calculador-remoto-de-precos-e-prazos/pdf/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos)
-
 ## Implementação do Exemplo
 
 1. Criar o diretório do projeto e proceder com a instalação dos pacotes através do `npm`:
@@ -154,3 +150,9 @@ node server.js
 [Instagram](https://www.instagram.com/smartcontacts/)
 
 [YouTube](https://www.youtube.com/jorgealuizio)
+
+## Referências
+
+[Github API Consulta CEP dos Correios](https://github.com/vitorleal/node-correios)
+
+[PDF - Manual Técnico de Integração com a API dos Correios](http://www.correios.com.br/enviar-e-receber/ferramentas/calculador-remoto-de-precos-e-prazos/pdf/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos)
