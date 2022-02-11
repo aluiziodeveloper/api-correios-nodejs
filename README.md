@@ -143,13 +143,15 @@ module.exports = router
 node server.js
 ```
 
-## Contato
+## Redes Sociais
 
 [Site Aluizio Developer](https://aluiziodeveloper.com.br)
 
-[Instagram](https://www.instagram.com/smartcontacts/)
-
 [YouTube](https://www.youtube.com/jorgealuizio)
+
+[Servidor no Discord](https://discord.gg/3J87BMz5fD)
+
+[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
 
 ## Referências
 
